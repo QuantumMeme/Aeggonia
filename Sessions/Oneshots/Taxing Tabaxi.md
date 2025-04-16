@@ -14,12 +14,10 @@ I will also note that more often than not, Spark cultists tend to be tabaxi. Not
 
 # Mechanics
 
-The fight will ideally be 
-
 **Cultists**
 - Josh G
 - Josh T
-- NPC 2x
+- 4x crystal constructs.
 
 **Mercs**
 - Christian
@@ -40,7 +38,10 @@ Thought not.
 
 By the way. You ain't allowed to peek at the goods. That's part of the deal that the Mags cut with us to get you paid so handsomely. And if you see a cultist? Kill 'em before they kill you. They're downright lunatics, ain't worth protecting, ain't worth convincing. 
 
-'Course, you ain't gonna just be rawdogging hell on earth. We've got some supplies for ya.
+'Course, you ain't gonna just be rawdogging hell on earth. We've got some supplies for ya. Also-- a bit of advice. The cultists are a big fan of blowing themselves up. Do your best not to be too close to them when they do.
+
+Cheers.
+
 ### Resources
 - **Frost Dome**
 	- Attached to the cart is a long, copper rod with a what looks to be a thick buckler attached to the top. It was hollowed, comprised of two layers rattling atop one another. It hums with magic as a dome is cast around the entire party-- a 20-foot radius.
@@ -51,16 +52,17 @@ By the way. You ain't allowed to peek at the goods. That's part of the deal that
 
 ### NPCs
 
+**Gregori Zynderglim**
 
-
+**Billy**
 
 ## Cultists
 
-_Your brain jiggles within your skull as the crystal embedded in your forehead buzzes with intent. Kistaledes, the intercessor to the Spine is relaying its exalted words into your eagerly awaiting minds._
+_Your brain jiggles within your skull as the crystal embedded in your forehead buzzes with intent. Kistaleda, the intercessor to the Spine is relaying its exalted words into your eagerly awaiting minds. She speaks in a jovial yet hoarse tone, though some words sound as though as they are spoken by many discordant voices at once._
 
-Greetings, my little vertebrae!
+Hellooooo, my little vertebrae!
 
-Rejoice, for there is a new opportunity to prove your faith to the god of gods! A simple task, one your brethren have done before!
+Rejoice, for there is a new opportunity to prove your faith to the god of gods! A simple task, an easy one! One your brethren have done before!
 
 **RETURN MY FLESH.**
 
@@ -68,12 +70,15 @@ A heavily defended trade cart is to be brushing past the hallowed ground we clai
 
 You will have about an hour to prepare for their arrival. Do what you must, do all that you can-- bring glory to the glorious, and shame to the shameful!
 
+Remember~ Better to die than to come empty-handed!
+
+Byebye!
+
 ### Resources
 
 - **Martyrdom**
 	- You concentrate on nothing but prayer and exaltation as you run towards the enemy. Fingers on your temples you scream the words you're taught-- a spell in Abyssal. You don't know what it means exactly, but you do know what comes next.
 	- **Cost**: An action. At the end of your next turn, you will explode violently. You will die. No death saves, no nothing. You will die.
-	- **Effect**: Pure, unadulterated mana bursts forth from you in a **10ft radius**. Players caught within must make a **DC16 dex save** against **8d8** *force* damage or half on success. The area is now marred with a crater.
-### NPCs
-
-**Gregori Zynderglim**
+	- **Effect**: Pure, unadulterated mana bursts forth from you in a **10ft radius**. Players caught within must make a **DC16 dex save** against **8d8** *fire* damage or half on success. The area is now marred with a crater.
+- **Crystalline Constructs**
+	- 
