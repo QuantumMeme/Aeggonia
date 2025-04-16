@@ -11,12 +11,36 @@ I want a relatively even distribution of players on either side. I'll probably i
 Characters will be level 9. Any class goes. Please avoid spells like dominate person and things like that because that's no fun in PVP. 
 I will also note that more often than not, Spark cultists tend to be tabaxi. Not always, but that's what you ought to expect.
 
+
+# Mechanics
+
+The fight will ideally be 
+
+**Cultists**
+- Josh G
+- Josh T
+- NPC 2x
+
+**Mercs**
+- Christian
+- Nick
+- NPC 2x
+
 # Actual Events
 
 ## Mercenaries 
 
-Each individual is being paid a hefty sum for this job. **2000 gold**. You already received half up-front, so you're not exactly able to back out now. You know what's coming. Sweaty, sweltering, suffocating heat. Perhaps a few beasts to contend with, some unfortunate fissures in inconvenient places-- perhaps even a raid from the cultists. Should be fine, though, right? I mean, it's just lunatics.
+Oy. Another day, another coin, right fellas?
 
+You know the drill. You folk are each being paid a hefty sum for this job. **3000 gold**. You've already received half up-front, so backing out ain't an option no more. This trip'll take ya through the belly of the Flame Clan, so you know what's comin'. Sweaty, suffocating, downright shitty heat. Maybe a few beasties to contend with, some unfortunate fissures in some inconvenient places-- maybe even a raid from the cultists. 
+
+Ya should be fine, though. You wouldn't let a couple of crystalline crackheads cut into your cut, would ya?
+
+Thought not.
+
+By the way. You ain't allowed to peek at the goods. That's part of the deal that the Mags cut with us to get you paid so handsomely. And if you see a cultist? Kill 'em before they kill you. They're downright lunatics, ain't worth protecting, ain't worth convincing. 
+
+'Course, you ain't gonna just be rawdogging hell on earth. We've got some supplies for ya.
 ### Resources
 - **Frost Dome**
 	- Attached to the cart is a long, copper rod with a what looks to be a thick buckler attached to the top. It was hollowed, comprised of two layers rattling atop one another. It hums with magic as a dome is cast around the entire party-- a 20-foot radius.
@@ -27,19 +51,29 @@ Each individual is being paid a hefty sum for this job. **2000 gold**. You alrea
 
 ### NPCs
 
+
+
+
 ## Cultists
 
-The Spine thinks its glorious thoughts through your own-- the crystal in your skull harmonizes with the exalted one within the center of the hallowed land you live in. He who intercedes, Kistaledes, tells you of its ideals. It buzzes with one continuous thought-- one task for you and your brethren.
+_Your brain jiggles within your skull as the crystal embedded in your forehead buzzes with intent. Kistaledes, the intercessor to the Spine is relaying its exalted words into your eagerly awaiting minds._
 
-*RETURN MY FLESH*
+Greetings, my little vertebrae!
 
-Those bastards wheeling through the flametouched land carry your Lord's flesh-- cut from its body and stolen-- only to be destroyed by the Flame Clan. This cannot be allowed to happen. You must stop them and retrieve the artifacts in one piece.
+Rejoice, for there is a new opportunity to prove your faith to the god of gods! A simple task, one your brethren have done before!
 
+**RETURN MY FLESH.**
+
+A heavily defended trade cart is to be brushing past the hallowed ground we claim, said to contain pieces of our Lord within! Your task is to retrieve it... and to **KILL THOSE WHO OPPOSE ME.**
+
+You will have about an hour to prepare for their arrival. Do what you must, do all that you can-- bring glory to the glorious, and shame to the shameful!
 
 ### Resources
 
 - **Martyrdom**
 	- You concentrate on nothing but prayer and exaltation as you run towards the enemy. Fingers on your temples you scream the words you're taught-- a spell in Abyssal. You don't know what it means exactly, but you do know what comes next.
 	- **Cost**: An action. At the end of your next turn, you will explode violently. You will die. No death saves, no nothing. You will die.
-	- **Effect**: Pure, unadulterated mana bursts forth from you in a 10ft radius. Players caught within must make a DC16 dex save against **8d8** *force* damage or half on success. The area is now marred with a crater.
+	- **Effect**: Pure, unadulterated mana bursts forth from you in a **10ft radius**. Players caught within must make a **DC16 dex save** against **8d8** *force* damage or half on success. The area is now marred with a crater.
 ### NPCs
+
+**Gregori Zynderglim**

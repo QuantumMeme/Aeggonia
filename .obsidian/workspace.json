@@ -11,10 +11,14 @@
             "id": "068fbb3c8d60f2c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Oneshots/Taxing Tabaxi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taxing Tabaxi"
             }
           }
         ]
@@ -161,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "068fbb3c8d60f2c8",
+  "active": "7763f82be0cf7647",
   "lastOpenFiles": [
     "Sessions/Oneshots/Taxing Tabaxi.md",
     "Sessions/Main Session.md",
