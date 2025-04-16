@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4604d59518fa8c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d5990dde11fbb5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068fbb3c8d60f2c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfbf6d7efe12c177",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f3eca9a5b8cc63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7763f82be0cf7647",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aaaa3db4185732eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07e22b6c1a4157a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cefc790e137efd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ecda62a6ceb7605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e811c9cc3edacc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ab3018e1ecac0b47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ecf26bd9df2706ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38577571a92e06a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "068fbb3c8d60f2c8",
+  "lastOpenFiles": [
+    "Sessions/Oneshots/Taxing Tabaxi.md",
+    "Sessions/Main Session.md",
+    "Images/Crests/Pasted image 20250414145718.png",
+    "Images/Crests",
+    "Nations/Shu Hui.md",
+    "Images/Characters/Fang-Xue.jpg",
+    "Nations/Principality of Aetherlore.md",
+    "Images/Characters/CopCop-Urrarkaad.jpg",
+    "Images/Characters/Grislaxx-Ibar.jpg",
+    "Images/Characters/Fang-Xue-1.jpg",
+    "Images/Characters/Skrelik-Ibar.jpg",
+    "Images/Characters/Hysterix-Ibar.jpg",
+    "Images/Characters/Xyrellia-Ibar.jpg",
+    "Images/Characters/Twilight-ShuHui.jpg",
+    "Images/Characters/Her-ShuHui.jpg",
+    "Nations/Coalition of Adalwin/Coalition of Adalwin.md",
+    "Images/Places",
+    "Images/Characters",
+    "Images",
+    "Sessions/Oneshots/Oneshots.md",
+    "Aeggonia History/Past/Past conflicts.md",
+    "Nations/Coalition of Adalwin/Sky Clan.md",
+    "Nations/Coalition of Adalwin/Twig Clan.md",
+    "Nations/Coalition of Adalwin/Waterfall Clan.md",
+    "Sessions/Session Info.md",
+    "Sessions/General Plot Threads to Follow.md",
+    "Sessions/Recaps/Recaps.md",
+    "Sessions/Recaps",
+    "Sessions/Oneshots",
+    "Sessions",
+    "Aeggonia History/Past/1132-1241 - The Mess.md",
+    "Aeggonia History/Far Past/Background History.md",
+    "Nations/Coalition of Adalwin/Bloodtree.md",
+    "Nations/Coalition of Adalwin/Flame Clan.md",
+    "Aeggonia.md",
+    "Nations/Coalition of Adalwin/Agia.md",
+    "Nations/Coalition of Adalwin/Grozzug.md",
+    "Nations/Coalition of Adalwin/Agrakh.md",
+    "Nations/Coalition of Adalwin/Gelant.md",
+    "Nations/Coalition of Adalwin/Urrarkaad.md",
+    "Nations/Coalition of Adalwin/Spark.md",
+    "Nations/Coalition of Adalwin/Boddar Ogh.md",
+    "Nations/Coalition of Adalwin",
+    "Nations",
+    "Aeggonia History/Far Past",
+    "Untitled.canvas"
+  ]
+}
