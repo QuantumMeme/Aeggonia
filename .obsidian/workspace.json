@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Oneshots/Taxing Tabaxi.md",
+                "file": "Aeggonia History/Past/1253 - The Assassination of the Highfang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taxing Tabaxi"
+              "title": "1253 - The Assassination of the Highfang"
+            }
+          },
+          {
+            "id": "473acfe1927185ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,14 +176,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "068fbb3c8d60f2c8",
+  "active": "473acfe1927185ac",
   "lastOpenFiles": [
-    "Nations/Coalition of Adalwin/Spark.md",
+    "Aeggonia History/Present/Current conflicts.md",
+    "Aeggonia History/Present/1268-present - Blood Revolution.md",
+    "Aeggonia History/Present/1253-Present - The Schism.md",
+    "1253 - Present - The Schism.md",
+    "Aeggonia History/Past/Past conflicts.md",
+    "Aeggonia History/Aeggonia History.md",
+    "Aeggonia History/Current Affairs.md",
+    "Aeggonia History/Present/1169-present - Aethan-Imperial War.md",
+    "Aeggonia History/Past/1253 - The Assassination of the Highfang.md",
+    "Nations/Coalition of Adalwin/Bloodtree.md",
+    "Nations/Coalition of Adalwin/Coalition of Adalwin.md",
+    "Nations/Coalition of Adalwin/Flame Clan.md",
+    "Nations/Coalition of Adalwin/Gelant.md",
+    "Nations/Coalition of Adalwin/Lenoir.md",
+    "Nations/Coalition of Adalwin/Urrarkaad.md",
+    "Nations/Coalition of Adalwin/Xaasbaan.md",
+    "Nations/Coalition of Adalwin/Waterfall Clan.md",
     "Nations/Coalition of Adalwin/Sky Clan.md",
+    "Nations/Coalition of Adalwin/Twig Clan.md",
+    "Sessions/Oneshots/Taxing Tabaxi.md",
+    "Nations/Coalition of Adalwin/Spark.md",
     "Images/Characters/2374618339dafa3408849ef43d8da10d-1.jpg",
     "Characters/Kistaleda, the intercessor.md",
     "Characters",
-    "Sessions/Oneshots/Taxing Tabaxi.md",
     "Sessions/Main Session.md",
     "Images/Crests/Pasted image 20250414145718.png",
     "Images/Crests",
@@ -186,30 +215,13 @@
     "Images/Characters/Hysterix-Ibar.jpg",
     "Images/Characters/Xyrellia-Ibar.jpg",
     "Images/Characters/Twilight-ShuHui.jpg",
-    "Nations/Coalition of Adalwin/Coalition of Adalwin.md",
     "Images/Places",
     "Images/Characters",
     "Images",
     "Sessions/Oneshots/Oneshots.md",
-    "Aeggonia History/Past/Past conflicts.md",
-    "Nations/Coalition of Adalwin/Twig Clan.md",
-    "Nations/Coalition of Adalwin/Waterfall Clan.md",
-    "Sessions/Session Info.md",
-    "Sessions/General Plot Threads to Follow.md",
-    "Sessions/Recaps/Recaps.md",
     "Sessions/Recaps",
     "Sessions/Oneshots",
     "Sessions",
-    "Aeggonia History/Past/1132-1241 - The Mess.md",
-    "Aeggonia History/Far Past/Background History.md",
-    "Nations/Coalition of Adalwin/Bloodtree.md",
-    "Nations/Coalition of Adalwin/Flame Clan.md",
-    "Aeggonia.md",
-    "Nations/Coalition of Adalwin/Agia.md",
-    "Nations/Coalition of Adalwin/Grozzug.md",
-    "Nations/Coalition of Adalwin/Agrakh.md",
-    "Nations/Coalition of Adalwin/Gelant.md",
-    "Nations/Coalition of Adalwin/Urrarkaad.md",
     "Nations/Coalition of Adalwin",
     "Nations",
     "Untitled.canvas"
