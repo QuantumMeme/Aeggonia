@@ -36,8 +36,8 @@ Set in the [[Flame Clan]]
 	- Floating aimlessly throughout the battlefield are clouds of searing embers. They drift among the heat with no ill-intent-- though if one enters their wake it may become a problem.
 	- The first time someone enters an ember swarm, and at the start of every subsequent turn one must make a **DC14 CON** save against 2d4 fire damage.
 - **Rebirth Incarnate**
-	- Fire is the element of passion-- of rage-- of fury. These features coalesce into wandering entities known as Reborn-- though in reality they are simply fire elementals. They are hostile to anything living and have a 10% chance of appearing whenever an earthen boil pops.
-	- 
+	- Fire is the element of passion-- of rage-- of fury. These features coalesce into wandering entities known as Reborn-- though in reality they are simply fire elementals. They are hostile to anything living and have a 5% chance of appearing whenever an earthen boil pops.
+	- ![[Pasted image 20250419171218.png]]
 # Actual Events
 
 ## Mercenaries 
@@ -62,15 +62,16 @@ Cheers.
 	- **EFFECTS**: Resistance against fire damage.
 - **Flares**
 	- Call for reinforcements. This _will_ cost you your deposit, netting you a loss of 1000 gold in order to pay the new fighters that will try to arrive in time. Emphasis on _try_.
-- 500 Gold
-
+- 4x ![[Pasted image 20250419161048.png]]
 
 ### NPCs
 
-**Gregori Zynderglim**
-
+**Angelica Hoff**
+sorceress aaracokra
+![[angelica hoff.pdf]]
 **Billy**
-
+barbarian tabaxi
+![[billy.pdf]]
 ## Cultists
 
 _Your brain jiggles within your skull as the crystal embedded in your forehead buzzes with intent. Kistaleda, the intercessor to the Spine is relaying its exalted words into your eagerly awaiting minds. She speaks in a jovial yet hoarse tone, though some words sound as though as they are spoken by many discordant voices at once._
@@ -92,10 +93,17 @@ Byebye!
 ### Resources
 
 - **Martyrdom**
-	- You concentrate on nothing but prayer and exaltation as you run towards the enemy. Fingers on your temples you scream the words you're taught-- a spell in Abyssal. You don't know what it means exactly, but you do know what comes next.
+	- You concentrate on nothing but prayer and exaltation as you run towards the enemy. Fingers on your temples you scream the words you're taught-- a spell in Primordial. You don't know what it means exactly, but you do know what comes next.
 	- **Cost**: An action. At the end of your next turn, you will explode violently. You will die. No death saves, no nothing. You will die.
 	- **Effect**: Pure, unadulterated mana bursts forth from you in a **10ft radius**. Players caught within must make a **DC16 dex save** against **8d8** *fire* damage or half on success. The area is now marred with a crater.
 - **Crystalline Constructs**
-	- The Spine has graciously bestowed unto you two constructs to aid in your battle. Their statblocks are as follows.
+	- The Spine has graciously bestowed unto you **three** constructs to aid in your battle. Their statblocks are as follows.
 
-	![[Pasted image 20250418232230.png]]
+	![[crystalline construct.png]]
+- **Attunable Crystals**
+	- You have been given a gift. A very nice gift, at that. **Two** crystals that can do different things depending on your choices. You can place them anywhere on the battlefield.
+	- *Heal*: If a creature ends their turn within 10ft of this crystal, they receive d8+4 health back
+	- *Harm*: If a creature ends their turn within 10ft of this crystal, they take d4+4 necrotic damage.
+	- *Cool*: So long as a creature is within 10ft of this crystal, they have resistance to fire damage.
+	- *Heat:* So long as a creature is within 10ft of this crystal, they are vulnerable to fire damage.
+	- *Turret*: A crystal floats above a shattered platform, lightning dancing in violent arcs across its shimmering surface. This is a weapon you can man. **Ranged weapon attack (dex):** 60/120, one target. *Hit* 1d12+4 lightning damage.
