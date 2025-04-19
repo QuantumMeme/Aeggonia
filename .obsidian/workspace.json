@@ -11,10 +11,14 @@
             "id": "068fbb3c8d60f2c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Oneshots/Taxing Tabaxi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taxing Tabaxi"
             }
           }
         ]
@@ -163,6 +167,12 @@
   },
   "active": "068fbb3c8d60f2c8",
   "lastOpenFiles": [
+    "Pasted image 20250418232230.png",
+    "Pasted image 20250418230436.png",
+    "Nations/Coalition of Adalwin/Flame Clan.md",
+    "Sessions/Oneshots/Taxing Tabaxi.md",
+    "Sessions/Oneshots/Oneshots.md",
+    "Nations/Coalition of Adalwin/Boddar Ogh.md",
     "Aeggonia History/Past/1253 - The Assassination of the Highfang.md",
     "Aeggonia History/Present/1253-Present - The Schism.md",
     "Aeggonia History/Present/Current conflicts.md",
@@ -174,7 +184,6 @@
     "Aeggonia History/Present/1169-present - Aethan-Imperial War.md",
     "Nations/Coalition of Adalwin/Bloodtree.md",
     "Nations/Coalition of Adalwin/Coalition of Adalwin.md",
-    "Nations/Coalition of Adalwin/Flame Clan.md",
     "Nations/Coalition of Adalwin/Gelant.md",
     "Nations/Coalition of Adalwin/Lenoir.md",
     "Nations/Coalition of Adalwin/Urrarkaad.md",
@@ -182,7 +191,6 @@
     "Nations/Coalition of Adalwin/Waterfall Clan.md",
     "Nations/Coalition of Adalwin/Sky Clan.md",
     "Nations/Coalition of Adalwin/Twig Clan.md",
-    "Sessions/Oneshots/Taxing Tabaxi.md",
     "Nations/Coalition of Adalwin/Spark.md",
     "Images/Characters/2374618339dafa3408849ef43d8da10d-1.jpg",
     "Characters/Kistaleda, the intercessor.md",
@@ -190,20 +198,16 @@
     "Sessions/Main Session.md",
     "Images/Crests/Pasted image 20250414145718.png",
     "Images/Crests",
-    "Nations/Shu Hui.md",
     "Images/Characters/Fang-Xue.jpg",
-    "Nations/Principality of Aetherlore.md",
     "Images/Characters/CopCop-Urrarkaad.jpg",
     "Images/Characters/Grislaxx-Ibar.jpg",
     "Images/Characters/Fang-Xue-1.jpg",
     "Images/Characters/Skrelik-Ibar.jpg",
     "Images/Characters/Hysterix-Ibar.jpg",
     "Images/Characters/Xyrellia-Ibar.jpg",
-    "Images/Characters/Twilight-ShuHui.jpg",
     "Images/Places",
     "Images/Characters",
     "Images",
-    "Sessions/Oneshots/Oneshots.md",
     "Sessions/Recaps",
     "Sessions/Oneshots",
     "Sessions",

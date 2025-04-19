@@ -24,6 +24,20 @@ I will also note that more often than not, Spark cultists tend to be tabaxi. Not
 - Nick
 - NPC 2x
 
+
+Set in the [[Flame Clan]]
+
+### Terrain Mechanics
+- **Earthen Boils**
+	- Cracked pockets of earth hiss angrily as an inferno presses against the packed surface, eager to escape but held back by mere inches of dirt. A wayward step atop such a pocket is enough to cause it to erupt, engulfing the area briefly in flame .
+	- If stepped on, **DC17 DEX** save against 4d6 fire damage or half on success.
+	- If attacked, **AC of 13** and **10HP**
+- **Ember Swarms**
+	- Floating aimlessly throughout the battlefield are clouds of searing embers. They drift among the heat with no ill-intent-- though if one enters their wake it may become a problem.
+	- The first time someone enters an ember swarm, and at the start of every subsequent turn one must make a **DC14 CON** save against 2d4 fire damage.
+- **Rebirth Incarnate**
+	- Fire is the element of passion-- of rage-- of fury. These features coalesce into wandering entities known as Reborn-- though in reality they are simply fire elementals. They are hostile to anything living and have a 10% chance of appearing whenever an earthen boil pops.
+	- 
 # Actual Events
 
 ## Mercenaries 
@@ -47,7 +61,8 @@ Cheers.
 	- Attached to the cart is a long, copper rod with a what looks to be a thick buckler attached to the top. It was hollowed, comprised of two layers rattling atop one another. It hums with magic as a dome is cast around the entire party-- a 20-foot radius.
 	- **EFFECTS**: Resistance against fire damage.
 - **Flares**
-	- Call for reinforcements. This _will_ cost you your deposit, netting you a loss of 1000 gold in order to pay the new fighters that will try to arrive in time.
+	- Call for reinforcements. This _will_ cost you your deposit, netting you a loss of 1000 gold in order to pay the new fighters that will try to arrive in time. Emphasis on _try_.
+- 500 Gold
 
 
 ### NPCs
@@ -81,4 +96,6 @@ Byebye!
 	- **Cost**: An action. At the end of your next turn, you will explode violently. You will die. No death saves, no nothing. You will die.
 	- **Effect**: Pure, unadulterated mana bursts forth from you in a **10ft radius**. Players caught within must make a **DC16 dex save** against **8d8** *fire* damage or half on success. The area is now marred with a crater.
 - **Crystalline Constructs**
-	- 
+	- The Spine has graciously bestowed unto you two constructs to aid in your battle. Their statblocks are as follows.
+
+	![[Pasted image 20250418232230.png]]
